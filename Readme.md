@@ -5,7 +5,7 @@ This project has benn created with the language Python and it's a calculatrice
 * Python v3.7
 * PySide2 v5.14
 
-## Installation
+## Installation 
 For install this project, here are the following commands:
 ### Command Universal
 ```
