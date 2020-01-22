@@ -8,7 +8,7 @@ This project has benn created with the language Python and it's a calculatrice
 ## Installation
 For install this project, here are the following commands:
 ### Command Universal
-``` 
+```
 - git clone git@github.com:ConteAlexandre/Calculatrice.git
 - cd Calculatrice
 - write command source env/bin/activate
